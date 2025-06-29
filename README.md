@@ -22,9 +22,9 @@ it's written using Python, with the libraries Pygame(pygame-ce) Pygame-gui and P
 ## Next upcoming features to do:
 Here are the next upcoming features to do before it's first ever official release:
 
-- [] Objects Creation, Hinges and Springs Creation, Top Bar with New, Save, Load, Undo, Redo, And A Properties panel + a help/credits button and more for the first alpha.
-- [] Trails Creation, Size changing, Text Boxes, Grid, Project Parts Saving/Loading and Textures/Images importing (that supports not just PNG and JPG, also WEBP and animated GIFs) and more types of Hinges!
-- [] A "New project" Button with 10 pre-made templates made by me.
-- [] Liquids Creation, Polygons (regular polygons/stars, and custom polygons, without mattering if it's concave or convex), Lines and Polylines creation
-- [] Multiplayer Mode and a place to share scenes with people
-- [] Lua Scripting Integration and CSG Integration
+- [ ] Objects Creation, Hinges and Springs Creation, Top Bar with New, Save, Load, Undo, Redo, And A Properties panel + a help/credits button and more for the first alpha.
+- [ ] Trails Creation, Size changing, Text Boxes, Grid, Project Parts Saving/Loading and Textures/Images importing (that supports not just PNG and JPG, also WEBP and animated GIFs) and more types of Hinges!
+- [ ] A "New project" Button with 10 pre-made templates made by me.
+- [ ] Liquids Creation, Polygons (regular polygons/stars, and custom polygons, without mattering if it's concave or convex), Lines and Polylines creation
+- [ ] Multiplayer Mode and a place to share scenes with people
+- [ ] Lua Scripting Integration and CSG Integration
