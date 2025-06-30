@@ -33,5 +33,7 @@ Here are the next upcoming features to do before it's first ever official releas
 - [ ] Multiplayer Mode and a place to share scenes with people
 - [ ] Lua Scripting Integration and CSG Integration
 
+-----
+
 Lastly, join the discord server if you also want to request new features, talk with the contributors and alpha testers or also talk about the program for fun!
 ### Discord Server
