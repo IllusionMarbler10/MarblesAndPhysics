@@ -36,7 +36,7 @@ Here are the next upcoming features to do before it's first ever official releas
 -----
 [^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
 
-Lastly, join the discord server if you also want to request new features, talk with the contributors and alpha/beta testers or also talk about the program for fun!
+Lastly, join the discord server if you also want to request new features, helping to fix some bugs and errors of this program, talk with the contributors and alpha/beta testers or also talk about the program for fun!
 ### Discord Server
 > [!NOTE]
 > There's no Discord invite link yet, but it will also come soon, so, stay tuned! ;)
