@@ -38,5 +38,7 @@ Here are the next upcoming features to do before it's first ever official releas
 
 Lastly, join the discord server if you also want to request new features, talk with the contributors and alpha/beta testers or also talk about the program for fun!
 ### Discord Server
+> [!NOTE]
+> There's no Discord invite link yet, but it will also come soon, so, stay tuned! ;)
 ----
 
