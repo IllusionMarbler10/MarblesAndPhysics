@@ -1,3 +1,5 @@
+![Discord](https://img.shields.io/discord/:)
+
 # Marbles And Physics
 > Version: 0.1.0 alpha
 
