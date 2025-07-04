@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/:)
+![Discord](https://img.shields.io/discord/:) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 # Marbles And Physics
 > Version: 0.1.0 alpha
