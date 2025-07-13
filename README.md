@@ -12,7 +12,7 @@ A Physics Game/Program Written In Python!
 ![isologotype](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSIsologotype.png)
 
 ## What is this program about?
-Marbles and physics is a physics simulation program/2d physics sandbox game made by [Marcos Perez (A.K.A. IllusionMarbler)](https://github.com/IllusionMarbler10)
+Marbles and physics is a physics simulation program/2d physics sandbox game made by [Marcos Perez (A.K.A. IllusionMarbler)](https://www.youtube.com/channel/UCu2aGM9Ajbpp6Aju3uCLBkw?sub_confirmation=1)
 it's written using Python, with the libraries [Pygame(pygame-ce)](https://github.com/pygame-community/pygame-ce) , [Pygame_gui](https://github.com/MyreMylar/pygame_gui) and [Pymunk](https://github.com/viblo/pymunk).  
 
 this project was started using only AI-generated code. (cause he tought that Marcos was going to do it himself, but now it's a time-saver for him.)  
