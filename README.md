@@ -17,7 +17,7 @@ it's written using Python, with the libraries [Pygame(pygame-ce)](https://github
 
 this project was started using only AI-generated code. (cause he tought that Marcos was going to do it himself, but now it's a time-saver for him.)  
 
-in this program/game you can create objects, mechanisms, electricity (if that's possible yet!) and even Marble Races and Algothlons!
+in this program/game you can create objects, mechanisms, electricity (if that's possible yet!) and even Marble Races and Algathlons!
 
 *[insert Screenshot 1 here]*
 
