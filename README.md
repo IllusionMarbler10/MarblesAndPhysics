@@ -21,9 +21,9 @@ in this program/game you can create objects, mechanisms, electricity (if that's 
 
 ![Screenshot1](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSScreenshot1.png)
 
-*[insert Screenshot 2 here]*
+![Screenshot2](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSScreenshot2.png)
 
-*[insert Screenshot 3 here]*
+![Screenshot3](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSScreenshot3.png)
 
 ## Next upcoming features to do:
 Here are the next upcoming features to do before it's first ever official release:
