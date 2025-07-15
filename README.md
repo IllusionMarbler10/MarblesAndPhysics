@@ -19,7 +19,7 @@ this project was started using only AI-generated code. (cause he tought that Mar
 
 in this program/game you can create objects, mechanisms, electricity (if that's possible yet!) and even Marble Races and Algathlons!
 
-*[insert Screenshot 1 here]*
+![Screenshot1](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSScreenshot1.png)
 
 *[insert Screenshot 2 here]*
 
