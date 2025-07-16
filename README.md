@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/1394701514299150396) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![[Discord](https://img.shields.io/discord/1394701514299150396)](https://discord.gg/QJAe2Q2Rw9) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 # Marbles And Physics
 > Version: 0.1.0 alpha
@@ -64,7 +64,7 @@ pyinstaller main_physics_game.py
 
 -----
 Lastly, join the discord server if you also want to request new features, helping to fix some bugs and errors of this program, talk with the contributors and alpha/beta testers or also talk about the program for fun!
-### [Discord Server](https://discord.gg/QJAe2Q2Rw9)
+### [Discord Server]([https://discord.gg/QJAe2Q2Rw9](https://discord.gg/QJAe2Q2Rw9))
 ----
 [^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
 [^2]: https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/main-python-game/main_physics_game.py
