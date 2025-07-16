@@ -6,7 +6,7 @@
 A Physics Game/Program Written In Python!
 
 >[!WARNING]
->This program is ***IN ALPHA STATE!!!*** so it contains some bugs and errors. if you want to contribute on developing the program, see the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more info.
+>This program is ***IN ALPHA STATE!!!*** so it contains some bugs and errors. if you want to contribute on developing the program, see the ~~CONTRIBUTING.md~~ (Not made yet) file for more info.
 >and if you want to test this python file yourself, take a look at on [How to compile and build this program Here.](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/README.md#how-to-compile-and-build-this-program)
 >Otherwise take a look at the to-do list of the next upcoming features [here.](https://github.com/IllusionMarbler10/MarblesAndPhysics?tab=readme-ov-file#next-upcoming-features-to-do) Also if you are contributing this project, please **we also need to fix some bugs and errors**, take a look at the issues [here.](https://github.com/IllusionMarbler10/MarblesAndPhysics/issues)
 
