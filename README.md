@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/:) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Discord](https://img.shields.io/discord/1394701514299150396) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 # Marbles And Physics
 > Version: 0.1.0 alpha
@@ -7,7 +7,7 @@ A Physics Game/Program Written In Python!
 
 >[!WARNING]
 >This program is ***IN ALPHA STATE!!!*** so it contains some bugs and errors. if you want to contribute on developing the program, see the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more info.
->and if you want to test this python file yourself, take a look at on [How to compile and build this program Here.](https://github.com/IllusionMarbler10/MarblesAndPhysics?tab=readme-ov-file#next-upcoming-features-to-do)
+>and if you want to test this python file yourself, take a look at on [How to compile and build this program Here.](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/README.md#how-to-compile-and-build-this-program)
 >Otherwise take a look at the to-do list of the next upcoming features [here.](https://github.com/IllusionMarbler10/MarblesAndPhysics?tab=readme-ov-file#next-upcoming-features-to-do) Also if you are contributing this project, please **we also need to fix some bugs and errors**, take a look at the issues [here.](https://github.com/IllusionMarbler10/MarblesAndPhysics/issues)
 
 ![isologotype](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSIsologotype.png)
@@ -63,11 +63,8 @@ pyinstaller main_physics_game.py
 ```
 
 -----
-[^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
-
 Lastly, join the discord server if you also want to request new features, helping to fix some bugs and errors of this program, talk with the contributors and alpha/beta testers or also talk about the program for fun!
-### Discord Server
-> [!NOTE]
-> There's no Discord invite link yet, but it will also come soon, so, stay tuned! ;)
+### [Discord Server](https://discord.gg/QJAe2Q2Rw9)
 ----
+[^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
 
