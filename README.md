@@ -1,4 +1,4 @@
-![Discord](https://camo.githubusercontent.com/c81b69c111fbc3ae1002a720ed1be0359838b7d945a146428349adde983f9245/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313339343730313531343239393135303339363f6c696e6b3d6874747073253341253246253246646973636f72642e6767253246514a4165325132527739) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+[![Discord](https://img.shields.io/discord/1394701514299150396?link=https%3A%2F%2Fdiscord.gg%2FQJAe2Q2Rw9)](https://discord.gg/QJAe2Q2Rw9) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 # Marbles And Physics
 > Version: 0.1.0 alpha
@@ -64,7 +64,7 @@ pyinstaller main_physics_game.py
 
 -----
 Lastly, join the discord server if you also want to request new features, helping to fix some bugs and errors of this program, talk with the contributors and alpha/beta testers or also talk about the program for fun!
-### [Discord Server]([https://discord.gg/QJAe2Q2Rw9](https://discord.gg/QJAe2Q2Rw9))
+### [Discord Server](https://discord.gg/QJAe2Q2Rw9)
 ----
 [^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
 [^2]: https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/main-python-game/main_physics_game.py
