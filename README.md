@@ -6,7 +6,8 @@
 A Physics Game/Program Written In Python!
 
 >[!WARNING]
->This program is ***IN WORK IN PROGRESS AND IN ALPHA STATE!!!*** and only the alpha is going to be released soon, see the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more info.
+>This program is ***IN ALPHA STATE!!!*** so it contains some bugs and errors. if you want to contribute on developing the program, see the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more info.
+>and if you want to test this python file yourself, take a look at on [How to compile and build this program Here.](https://github.com/IllusionMarbler10/MarblesAndPhysics?tab=readme-ov-file#next-upcoming-features-to-do)
 >Otherwise take a look at the to-do list of the next upcoming features [here.](https://github.com/IllusionMarbler10/MarblesAndPhysics?tab=readme-ov-file#next-upcoming-features-to-do) Also if you are contributing this project, please **we also need to fix some bugs and errors**, take a look at the issues [here.](https://github.com/IllusionMarbler10/MarblesAndPhysics/issues)
 
 ![isologotype](https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/images/MRBPHYSIsologotype.png)
@@ -34,6 +35,32 @@ Here are the next upcoming features to do before it's first ever official releas
 - [ ] Liquids Creation, Polygons (regular polygons/stars, and custom polygons, without mattering if it's concave or convex), Lines and Polylines creation
 - [ ] Multiplayer Mode and a place to share scenes with people
 - [ ] Lua Scripting Integration and CSG Integration
+
+## How to compile and build this program?
+
+to compile this program is needed to get these packages installed:
+
+```
+pip3 install pygame-ce pymunk pygame_gui
+```
+
+then you can run the following command in your IDE:
+
+```
+python3 main_physics_game.py
+```
+
+now, to build the program is needed to use pyinstaller installed in your virtual enviroment:
+
+```
+pip3 install pyinstaller
+```
+
+and then build the program with the pyinstaller package:
+
+```
+pyinstaller main_physics_game.py
+```
 
 -----
 [^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
