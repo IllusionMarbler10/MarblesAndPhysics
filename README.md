@@ -44,7 +44,7 @@ to compile this program is needed to get these packages installed:
 pip3 install pygame-ce pymunk pygame_gui
 ```
 
-then you can run the following command in your IDE: [2]
+then you can run the following command in your IDE: [^2]
 
 ```
 python3 main_physics_game.py
