@@ -29,7 +29,7 @@ in this program/game you can create objects, mechanisms, electricity (if that's 
 ## Next upcoming features to do:
 Here are the next upcoming features to do before it's first ever official release:
 
-- [ ] Objects Creation, Hinges and Springs Creation, Top Bar with New, Save, Load, Undo, Redo, And A Properties panel + a help/credits button and more for the first alpha. [^1]
+- [X] Objects Creation, Hinges and Springs Creation, Top Bar with New, Save, Load, Undo, Redo, And A Properties panel + a help/credits button and more for the first alpha. [^1]
 - [ ] Trails Creation (with customization), Size changing for objects, Text Boxes, Grid, Project Parts Saving/Loading and Textures/Images importing (that supports not just PNG and JPG, also WEBP and animated GIFs) and more types of Hinges!
 - [ ] A "New project" Button with 10 pre-made templates, and 10 example projects made by me.
 - [ ] Liquids Creation, Polygons (regular polygons/stars, and custom polygons, without mattering if it's concave or convex), Lines and Polylines creation
@@ -44,7 +44,7 @@ to compile this program is needed to get these packages installed:
 pip3 install pygame-ce pymunk pygame_gui
 ```
 
-then you can run the following command in your IDE:
+then you can run the following command in your IDE: [2]
 
 ```
 python3 main_physics_game.py
@@ -67,4 +67,5 @@ Lastly, join the discord server if you also want to request new features, helpin
 ### [Discord Server](https://discord.gg/QJAe2Q2Rw9)
 ----
 [^1]: https://github.com/IllusionMarbler10/MarblesAndPhysics/issues/1
+[^2]: https://github.com/IllusionMarbler10/MarblesAndPhysics/blob/main/main-python-game/main_physics_game.py
 
